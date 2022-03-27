@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetQ1_1 Pin=R2-1
+Removed Pin From Net: NetName=3.3V Pin=R2-2
+Added Component: Designator=R29(R_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB DECAL"; Value = "R_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R/NC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ2_1 Pin=R29-1
+Added Pin To Net: NetName=3.3V Pin=R29-2
+Added Member To Class: ClassName=heading_table Member=Component R29 R0603
+Added Room: Name=heading_table

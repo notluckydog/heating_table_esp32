@@ -1,0 +1,54 @@
+Added Component: Designator=J1(test_point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB DECAL"; Value = "1_DIP"; VariantName = "[No Variations]"
+Added Component: Designator=J2(test_point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB DECAL"; Value = "1_DIP"; VariantName = "[No Variations]"
+Added Component: Designator=J3(test_point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB DECAL"; Value = "1_DIP"; VariantName = "[No Variations]"
+Added Component: Designator=J4(test_point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB DECAL"; Value = "1_DIP"; VariantName = "[No Variations]"
+Added Component: Designator=J5(test_point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB DECAL"; Value = "1_DIP"; VariantName = "[No Variations]"
+Added Component: Designator=J6(test_point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB DECAL"; Value = "1_DIP"; VariantName = "[No Variations]"
+Added Component: Designator=J7(test_point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB DECAL"; Value = "1_DIP"; VariantName = "[No Variations]"
+Added Component: Designator=J8(test_point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB DECAL"; Value = "1_DIP"; VariantName = "[No Variations]"
+Added Component: Designator=J9(test_point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB DECAL"; Value = "1_DIP"; VariantName = "[No Variations]"
+Added Component: Designator=J10(test_point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB DECAL"; Value = "1_DIP"; VariantName = "[No Variations]"
+Added Component: Designator=J11(test_point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB DECAL"; Value = "1_DIP"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PCB DECAL"; Value = "R_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3K/NC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-1
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetJ6_1
+Added Member To Class: ClassName=heading_table Member=Component J1 1_DIP
+Added Member To Class: ClassName=heading_table Member=Component J2 1_DIP
+Added Member To Class: ClassName=heading_table Member=Component J3 1_DIP
+Added Member To Class: ClassName=heading_table Member=Component J4 1_DIP
+Added Member To Class: ClassName=heading_table Member=Component J5 1_DIP
+Added Member To Class: ClassName=heading_table Member=Component J6 1_DIP
+Added Member To Class: ClassName=heading_table Member=Component J7 1_DIP
+Added Member To Class: ClassName=heading_table Member=Component J8 1_DIP
+Added Member To Class: ClassName=heading_table Member=Component J9 1_DIP
+Added Member To Class: ClassName=heading_table Member=Component J10 1_DIP
+Added Member To Class: ClassName=heading_table Member=Component J11 1_DIP
+Added Member To Class: ClassName=heading_table Member=Component R2 R0603
+Added Room: Name=heading_table

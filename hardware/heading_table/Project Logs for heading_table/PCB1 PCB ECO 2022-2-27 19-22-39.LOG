@@ -1,0 +1,14 @@
+Added Component: Designator=H1(HDR-TH_4P-P2.54-V-R2-C2-S2.54_A2541WV-2X2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Changjiang Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "A2541WV-2x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C225517"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "A2541WV-2X2P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetH1_3 Pin=H1-3
+Added Pin To Net: NetName=NetH1_4 Pin=H1-4
+Added Member To Class: ClassName=heading_table Member=Component H1 A2541WV-2X2P
+Added Room: Name=heading_table

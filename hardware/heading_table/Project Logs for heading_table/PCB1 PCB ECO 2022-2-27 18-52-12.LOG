@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VBUS1 Pin=Q1-2
+Removed Pin From Net: NetName=VBUS1 Pin=Q3-2
+Removed Pin From Net: NetName=VBUS1 Pin=Q4-2
+Added Component: Designator=R20(R2512)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_JLCPCB SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "SUP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MRF6432(2512)LR010JTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C76272"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "http://image.lceda.cn/szlcsc/C76272.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "MRF6432(2512)LR010JTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01¶∏"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS1 Pin=R20-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R20-1
+Added Net: Name=NetQ1_2
+Added Member To Class: ClassName=heading_table Member=Component C3 100nf
+Added Member To Class: ClassName=heading_table Member=Component Q2 S8050
+Added Member To Class: ClassName=heading_table Member=Component R13 R0603
+Added Member To Class: ClassName=heading_table Member=Component R20 º”»»∞Â
+Added Member To Class: ClassName=heading_table Member=Component RED2 LED-0603_R
+Added Member To Class: ClassName=heading_table Member=Component U2 ESP32-WROOM-32
+Added Room: Name=heading_table

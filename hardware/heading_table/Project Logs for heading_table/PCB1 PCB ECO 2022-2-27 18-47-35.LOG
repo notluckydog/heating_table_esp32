@@ -1,0 +1,190 @@
+Change Component Designator: OldDesignator=BEEP? NewDesignator=BEEP1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=Q? NewDesignator=Q5
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=RED? NewDesignator=RED1
+Change Component Designator: OldDesignator=RED? NewDesignator=RED2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Component Designator: OldDesignator=USBC? NewDesignator=USBC1
+Change Net Name : Old Net Name=NetBEEP?_1 New Net Name=NetBEEP1_1
+Change Net Name : Old Net Name=NetBEEP?_2 New Net Name=NetBEEP1_2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetP1_2
+Change Net Name : Old Net Name=NetP?_3 New Net Name=NetP1_3
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetQ2_3
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetU?_3 New Net Name=NetU2_30
+Change Net Name : Old Net Name=NetU?_4 New Net Name=NetU2_29
+Change Net Name : Old Net Name=NetU?_5 New Net Name=NetU5_5
+Change Net Name : Old Net Name=NetU?_6 New Net Name=NetU5_6
+Change Net Name : Old Net Name=NetU?_7 New Net Name=NetU7_7
+Change Net Name : Old Net Name=NetU?_8 New Net Name=NetU1_11
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=SW1-3
+Added Pin To Net: NetName=NetC3_1 Pin=U2-7
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=U6-1
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=D1-2
+Added Pin To Net: NetName=NetC9_2 Pin=L1-1
+Added Pin To Net: NetName=NetC9_2 Pin=U6-6
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=C11-1
+Added Pin To Net: NetName=NetC10_2 Pin=L1-2
+Added Pin To Net: NetName=NetC10_2 Pin=R15-1
+Added Pin To Net: NetName=NetC10_2 Pin=R16-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=R16-1
+Added Pin To Net: NetName=NetC11_2 Pin=R18-2
+Added Pin To Net: NetName=NetC11_2 Pin=U6-3
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=R17-2
+Added Pin To Net: NetName=NetC12_1 Pin=U6-5
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetH1_3 Pin=U4-3
+Added Net: Name=NetH1_3
+Added Pin To Net: NetName=NetH1_4 Pin=U4-2
+Added Net: Name=NetH1_4
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R5-2
+Added Pin To Net: NetName=NetQ2_1 Pin=U2-28
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-1
+Added Pin To Net: NetName=NetR6_2 Pin=U2-27
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U2-31
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=RED2-1
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U5-3
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U6-4
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=U7-8
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetU1_3 Pin=U2-12
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Pin To Net: NetName=NetU1_4 Pin=U2-11
+Added Net: Name=NetU1_4
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Net: Name=NetU1_5
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Pin To Net: NetName=NetU1_6 Pin=U2-10
+Added Net: Name=NetU1_6
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=NetU1_7 Pin=U2-9
+Added Net: Name=NetU1_7
+Added Pin To Net: NetName=NetU2_33 Pin=U2-33
+Added Pin To Net: NetName=NetU2_33 Pin=U4-6
+Added Net: Name=NetU2_33
+Added Pin To Net: NetName=NetU2_36 Pin=U2-36
+Added Pin To Net: NetName=NetU2_36 Pin=U4-7
+Added Net: Name=NetU2_36
+Added Pin To Net: NetName=NetU2_37 Pin=U2-37
+Added Pin To Net: NetName=NetU2_37 Pin=U4-5
+Added Net: Name=NetU2_37
+Added Pin To Net: NetName=NetU7_6 Pin=U7-6
+Added Pin To Net: NetName=NetU7_6 Pin=USBC1-B8
+Added Net: Name=NetU7_6
+Added Member To Class: ClassName=heading_table Member=Component C1 100nf
+Added Member To Class: ClassName=heading_table Member=Component C2 C0603
+Added Member To Class: ClassName=heading_table Member=Component C4 100nf
+Added Member To Class: ClassName=heading_table Member=Component C5 100NF
+Added Member To Class: ClassName=heading_table Member=Component C6 C0603
+Added Member To Class: ClassName=heading_table Member=Component C7 10UF
+Added Member To Class: ClassName=heading_table Member=Component C8 0.1UF
+Added Member To Class: ClassName=heading_table Member=Component C9 1UF
+Added Member To Class: ClassName=heading_table Member=Component C10 100UF
+Added Member To Class: ClassName=heading_table Member=Component C11 440P~660P
+Added Member To Class: ClassName=heading_table Member=Component C12 10UF
+Added Member To Class: ClassName=heading_table Member=Component C13 1uF
+Added Member To Class: ClassName=heading_table Member=Component Q1 NCE3050K
+Added Member To Class: ClassName=heading_table Member=Component Q3 NCE3050K
+Added Member To Class: ClassName=heading_table Member=Component Q4 NCE3050K/NC
+Added Member To Class: ClassName=heading_table Member=Component Q5 S8050
+Added Member To Class: ClassName=heading_table Member=Component R1 R0603
+Added Member To Class: ClassName=heading_table Member=Component R2 R0603
+Added Member To Class: ClassName=heading_table Member=Component R3 R0603
+Added Member To Class: ClassName=heading_table Member=Component R4 R0603
+Added Member To Class: ClassName=heading_table Member=Component R5 R0603
+Added Member To Class: ClassName=heading_table Member=Component R6 100k¦¸/nc
+Added Member To Class: ClassName=heading_table Member=Component R7 R0603
+Added Member To Class: ClassName=heading_table Member=Component R8 R0603
+Added Member To Class: ClassName=heading_table Member=Component R9 R0603
+Added Member To Class: ClassName=heading_table Member=Component R10 R0603
+Added Member To Class: ClassName=heading_table Member=Component R11 R0603
+Added Member To Class: ClassName=heading_table Member=Component R12 R0603
+Added Member To Class: ClassName=heading_table Member=Component R14 R0603
+Added Member To Class: ClassName=heading_table Member=Component R15 R0603
+Added Member To Class: ClassName=heading_table Member=Component R16 R0603
+Added Member To Class: ClassName=heading_table Member=Component R17 R0603
+Added Member To Class: ClassName=heading_table Member=Component R18 R0603
+Added Member To Class: ClassName=heading_table Member=Component R19 R0603
+Added Member To Class: ClassName=heading_table Member=Component RED1 LED-0603_R
+Added Member To Class: ClassName=heading_table Member=Component U1 0.96 TFT
+Added Member To Class: ClassName=heading_table Member=Component U3 OLED
+Added Member To Class: ClassName=heading_table Member=Component U4 MAX6675
+Added Member To Class: ClassName=heading_table Member=Component U5 CH340C
+Added Member To Class: ClassName=heading_table Member=Component U6 ME3116
+Added Member To Class: ClassName=heading_table Member=Component U7 CH224K
+Added Room: Name=heading_table

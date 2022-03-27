@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetU2_30 Pin=U3-3
+Removed Pin From Net: NetName=NetU2_29 Pin=U3-4
+Added Pin To Net: NetName=NetU2_29 Pin=U3-3
+Added Pin To Net: NetName=NetU2_30 Pin=U3-4
+Added Room: Name=heading_table

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=VBUS1 Pin=C10-2
+Added Pin To Net: NetName=VBUS1 Pin=C11-1
+Added Pin To Net: NetName=VBUS1 Pin=L1-2
+Added Pin To Net: NetName=VBUS1 Pin=R15-1
+Added Pin To Net: NetName=VBUS1 Pin=R16-2
+Added Room: Name=heading_table
